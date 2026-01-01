@@ -17,13 +17,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Cybersecurity Developer** and **Computer Science student** at Qatar University, specializing in building secure, AI-powered applications that push the boundaries of modern security solutions. My work focuses on integrating cutting-edge technologies like **Local LLMs**, **Federated Learning**, **Blockchain**, and **Advanced Threat Intelligence** into practical security platforms.
+I'm a passionate **Cybersecurity Developer** and **Computer Science student** at Qatar University, specializing in building secure, AI-powered applications that push the boundaries of modern security solutions. My work focuses on integrating cutting-edge technologies like **Local LLMs**, **AI Agents**, **Federated Learning**, **Blockchain**, and **Advanced Threat Intelligence** into practical security platforms.
 
-- 🔐 **Specialization**: Cybersecurity, Network Security, Applied Cryptography
-- 🤖 **Interests**: AI/ML in Security, Federated Learning, Blockchain Technology
+- 🔐 **Foundations**: Computer Security, Network/Enterprise Security, Applied Cryptography, Artificial Intelligence
+- 🤖 **Interests**: AI/ML in Security, Federated Learning, AI Agents, Blockchain
 - 🏆 **Achievements**: Dean's List, Outstanding Performance Scholarship, Top 5 @ Qatar National CTF 2022
-- 🌱 **Currently Learning**: Advanced AI Agents, GPU-Accelerated Computing, Distributed Systems
-- 💡 **Research Focus**: AI-powered security automation, anomaly detection, and privacy-preserving ML
+- 🌱 **Currently Learning**: Advanced AI Agents, GPU-Accelerated Computing, Cybersecurity and AI Automation
+- 💡 **Research Focus/Interests**: AI-powered security automation, AI automation, federated learning, and privacy-preserving ML
 
 ---
 
@@ -51,16 +51,19 @@ An advanced security platform that combines multiple cutting-edge technologies t
 - Final year thesis project at Qatar University
 - Heavy emphasis on research and experimentation
 - Collaboration with cybersecurity faculty and industry professionals
-
+  
+**📊 More Details:**
+- Check out our senior project in the University Website 👇
+- [![Senior Project](https://img.shields.io/badge/Senior%20Project-Capstone-3776AB?style=for-the-badge&logo=github&logoColor=white)](http://blogs.qu.edu.qa/cse/wiki/senior-projects-fall2025/#articleTOC_18)
 ---
 
 ### 🔒 [Secure Multi-Client Linux Server Automation](https://github.com/muhammad-mq2106769/OS_PROJECT)
-> **Enterprise-Grade Linux Infrastructure with Advanced Security**
+> **Client-Server Linux Infrastructure with Advanced Security**
 
 A production-ready server infrastructure implementing defense-in-depth security principles with automated monitoring and compliance reporting.
 
 **🔧 Technologies:**
-- **Security**: SFTP/SSH, chroot isolation, permission hardening, fail2ban
+- **Security**: SFTP/SSH, chroot isolation, permission hardening
 - **Automation**: Cron-based telemetry, automated backups, system diagnostics
 - **Monitoring**: Real-time login tracking, file integrity auditing, network diagnostics
 - **Compliance**: Automated email reporting, centralized logging
