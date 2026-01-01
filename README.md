@@ -54,7 +54,9 @@ An advanced security platform that combines multiple cutting-edge technologies t
   
 **📊 More Details:**
 - Check out our senior project in the University Website 👇
-- [![Senior Project](https://img.shields.io/badge/Senior%20Project-Capstone-3776AB?style=for-the-badge&logo=github&logoColor=white)](http://blogs.qu.edu.qa/cse/wiki/senior-projects-fall2025/#articleTOC_18)
+  
+  [![Senior Project](https://img.shields.io/badge/Senior%20Project-Capstone-3776AB?style=for-the-badge&logo=github&logoColor=white)](http://blogs.qu.edu.qa/cse/wiki/senior-projects-fall2025/#articleTOC_18)
+  
 ---
 
 ### 🔒 [Secure Multi-Client Linux Server Automation](https://github.com/muhammad-mq2106769/OS_PROJECT)
