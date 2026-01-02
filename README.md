@@ -99,18 +99,10 @@ A feature-rich e-commerce platform built with modern web technologies, demonstra
 **✨ Key Features:**
 - Responsive, mobile-first design
 - Real-time inventory management
-- Secure payment gateway integration
 - User authentication and authorization
 - Product search and filtering
 - Shopping cart with persistent state
 - Admin dashboard for product management
-
-**🔐 Security Implementations:**
-- Input validation and sanitization
-- SQL injection prevention through Prisma
-- XSS protection
-- CSRF token implementation
-- Secure session management
 
 ---
 
@@ -121,19 +113,19 @@ A feature-rich e-commerce platform built with modern web technologies, demonstra
 Completed an intensive IT infrastructure training program covering multiple domains of enterprise technology:
 
 **🌐 Network Infrastructure:**
-- Configured and troubleshot enterprise network equipment (routers, switches, firewalls)
+- Trained on enterprise network equipment (routers, switches, firewalls)
 - Implemented VLANs, routing protocols, and network segmentation
 - Performed network security assessments and hardening
 
 **🔒 Security Operations:**
-- Monitored security incidents using SIEM tools
-- Conducted vulnerability assessments and penetration testing
-- Implemented security policies and compliance measures
+- Comprehensive training on security incidents using SIEM tools
+- Trained on conducting vulnerability assessments and penetration testing
+- Overview on security policies, compliance and governance
 
 **☁️ Cloud Operations:**
-- Managed Azure and GCP cloud resources
-- Deployed and maintained cloud-based applications
-- Implemented Infrastructure as Code (IaC) practices
+- Gained introduction to Azure and GCP cloud resources
+- Understood deployment and maintenance of cloud-based applications
+- Learned Infrastructure as Code (IaC) practices
 
 **📱 Development Projects:**
 - Mobile app development using Flutter/Dart
@@ -198,7 +190,7 @@ Completed an intensive IT infrastructure training program covering multiple doma
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Proficiencies:**
+**Other foundations:**
 - Cloud Infrastructure Management (IaaS, PaaS, SaaS)
 - Microsoft 365 Administration
 - Active Directory & Identity Management
@@ -278,20 +270,21 @@ Completed an intensive IT infrastructure training program covering multiple doma
 
 🔭 **Working On:**
 - Advancing ADAMAS Security Platform with enhanced AI capabilities
-- Exploring quantum-resistant cryptography implementations
-- Building distributed security monitoring systems
+- Exploring AI automation, Machine Learning and Security Governance
+- Studying and trying to deploy security monitoring systems in an AIO interface for ADAMAS
 
 🌱 **Learning:**
 - Advanced GPU programming with CUDA
 - Kubernetes security and container orchestration
 - Zero Trust Architecture implementation
-- Advanced threat hunting techniques
+- Blue Teaming and Red Teaming
+- Data Analytics and Machine Learning
 
-🎯 **2025 Goals:**
-- Complete Bachelor's degree with honors
-- Publish research paper on AI-powered security systems
+🎯 **2026 Goals:**
+- Complete Bachelor's degree
+- Publish research paper on AI-powered security systems (ADAMAS)
 - Contribute to open-source security projects
-- Obtain OSCP or CEH certification
+- Obtain AI and Security Certifications
 
 ---
 
