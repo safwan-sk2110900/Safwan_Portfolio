@@ -222,6 +222,7 @@ Completed an intensive IT infrastructure training program covering multiple doma
 
 | Certification | Issuing Organization | Year |
 |---------------|---------------------|------|
+| 🔐 CompTIA Security+ | CompTIA | 2026 |
 | 🎓 Data Engineering Foundations | LinkedIn Learning | 2025 |
 | 🔐 Cybersecurity Fundamentals | IBM | 2024 |
 | 💻 Introduction to Computers and Operating Systems and Security | Microsoft | 2024 |
