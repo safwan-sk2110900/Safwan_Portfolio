@@ -5,7 +5,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Cybersecurity+Developer;AI+%26+Security+Enthusiast;Full+Stack+Developer;Blockchain+%26+Federated+Learning)
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=portfolio&logoColor=white)](https://safwan-portfolio-xi.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/safwan-abdurahiman-kavil-b79428272)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/safwan-abdurahiman-kavil-sak03)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/safwan-sk2110900)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safwankavil03@gmail.com)
   
@@ -137,7 +137,7 @@ Completed an intensive IT infrastructure training program covering multiple doma
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science**  
-*Qatar University* | **Concentration: Cybersecurity** | *Jan 2022 - Present*
+*Qatar University* | **Concentration: Cybersecurity** | *Jan 2022 - Dec 2025*
 
 **🏆 Honors & Recognition:**
 - Outstanding Performance Scholarship Recipient
@@ -313,7 +313,7 @@ I'm always open to discussing:
 
 **Preferred Contact Method:**  
 📧 Email: [safwankavil03@gmail.com](mailto:safwankavil03@gmail.com)  
-💼 LinkedIn: [Safwan Abdurahiman Kavil](http://www.linkedin.com/in/safwan-abdurahiman-kavil-b79428272)
+💼 LinkedIn: [Safwan Abdurahiman Kavil](www.linkedin.com/in/safwan-abdurahiman-kavil-sak03)
 
 ---
 
